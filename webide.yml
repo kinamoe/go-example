@@ -1,0 +1,6 @@
+preset: golang
+extensions:
+    - ms-vscode.go
+language: zh-hans
+packages:
+    - godef
